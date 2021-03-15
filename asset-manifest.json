@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Travel_Armenia/static/css/main.f59d1d7a.chunk.css",
+    "main.js": "/Travel_Armenia/static/js/main.4c83264c.chunk.js",
+    "main.js.map": "/Travel_Armenia/static/js/main.4c83264c.chunk.js.map",
+    "runtime-main.js": "/Travel_Armenia/static/js/runtime-main.0e5a635a.js",
+    "runtime-main.js.map": "/Travel_Armenia/static/js/runtime-main.0e5a635a.js.map",
+    "static/js/2.05a539ea.chunk.js": "/Travel_Armenia/static/js/2.05a539ea.chunk.js",
+    "static/js/2.05a539ea.chunk.js.map": "/Travel_Armenia/static/js/2.05a539ea.chunk.js.map",
+    "static/js/3.bb25ee39.chunk.js": "/Travel_Armenia/static/js/3.bb25ee39.chunk.js",
+    "static/js/3.bb25ee39.chunk.js.map": "/Travel_Armenia/static/js/3.bb25ee39.chunk.js.map",
+    "index.html": "/Travel_Armenia/index.html",
+    "static/css/main.f59d1d7a.chunk.css.map": "/Travel_Armenia/static/css/main.f59d1d7a.chunk.css.map",
+    "static/js/2.05a539ea.chunk.js.LICENSE.txt": "/Travel_Armenia/static/js/2.05a539ea.chunk.js.LICENSE.txt",
+    "static/media/HeroSection.css": "/Travel_Armenia/static/media/img-13.5a4224ed.jpg",
+    "static/media/App.css": "/Travel_Armenia/static/media/img-21.55d19274.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e5a635a.js",
+    "static/js/2.05a539ea.chunk.js",
+    "static/css/main.f59d1d7a.chunk.css",
+    "static/js/main.4c83264c.chunk.js"
+  ]
+}
